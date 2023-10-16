@@ -4,7 +4,7 @@
 
 # StarWars_EDA-SentimentAnalysis-TextAssociation_R
 
-**Course:** Web and Network Analytics
+**Project:** Web and Network Analytics
 
 **Topic:** Star Wars Text & Sentiment Analysis 
 
