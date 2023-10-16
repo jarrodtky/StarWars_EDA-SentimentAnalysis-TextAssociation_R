@@ -18,7 +18,6 @@
   - [Aim & Objective](##Aim---Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
-- [Installation](#Installation)
 - [License](#License)
 - [Credits](#Credits)
 
@@ -72,15 +71,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <p </p>
-
-
-
-## Installation
-- Clone this repository and unzip it / Download the R file only.
-- After downloading, open the R file using any tool (Rstudio, VSCode, Jupyter Lab, etc.).
-- [Set R work directory](https://r-lang.com/setwd-function-in-r-with-example/#:~:text=The%20setwd%20in%20r%20is,to%20navigate%20the%20data%20directory.).
-- Install the required library packages.
-- Run the code and view the results.
 
 
 
